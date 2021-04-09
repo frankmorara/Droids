@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Droids</string>
+<!--  Members Names-->
+    <string name="frank">Frank</string>
+    <string name="ezra">Ezra</string>
+    <string name="henry">Henry</string>
+    <string name="kendi">Kendi</string>
+    <string name="michelle">Michelle</string>
+    <string name="pam">Pam</string>
+    <string name="theophilus">Theophilus</string>
+    <string name="android_engineer">Android Engineer</string>
+</resources>
